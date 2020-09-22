@@ -3,11 +3,7 @@
   <head>
 
  <link rel="stylesheet" href="./style.css">
-
-    <title>                                                                                                                                                                 
-      Tulsa, Oklahoma.... A walk through time!                                                                                                                              
-    </title>
-    <meta charset="UTF-8">
+                                                                                                          
   </head>
   <body>
 
