@@ -20,9 +20,7 @@ g "Old town" in their native language. Years would pass and more people would sh
 e in what is now Tulsa's oldest neighborhood Owen Park and it still stands today. To learn more about former Native American Reservations in Oklahoma click the picture bel\
 ow.
     </p>
-<a href="https://en.wikipedia.org/wiki/Former_Indian_reservations_in_Oklahoma">
-  <img src="img/okok.jpg">
-  </a>
+
 
 <h2>
  <span style="color:red"> Oil Boom!
@@ -35,7 +33,7 @@ t a pipeline from the Glenpool to provide gas to Oklahoma City. The giant oilfie
 aid per year to Creek Native Americans who held 160-acre allotments in the field. It is said that "<i>more money was made on the Glenpoool oil field than the California Go\
 ld Rush and the Colorado Silver Rush combined </i>". The historic Oklahoma oil field still produces today with new water-flood and other enhanced technology.
   </p>
-<img src="img/gp_banner.jpg">
+
 
 <h3> Tulsa Today! </h3>
 
@@ -46,8 +44,6 @@ lahoma State University Tulsa, Oral Roberts University, <a href="https://www.hol
 , North Eastern State Univeristy and more... As a proud Tulsan I encourage anyone that has not visited this beautiful city to do so and discover the possibilities that are\
  held within its city limits and its people.</p>
 
-<a href="https://www.spacestationexplorers.org/partner-organizations/tulsa-air-space-museum/"><img src="img/tasm-logo-1.jpg"></a>
-<img src="img/lightstulsa.jpg">
 
 <h4> Learn more? See what people are tweeting about TULSA!                                                                                                                  
 </h4>
