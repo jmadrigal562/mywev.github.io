@@ -10,9 +10,9 @@
 <h1> <em> Tulsa, Oklahoma.... A walk through time!</em>
 </h1>
 
-<h2 <span style="color:red"> The Early Years </span> </h2>
-    <p> Tulsa was first settled between 1828 and 1836. At that time the Lochapoka Band of the Creek Native American Indian tribe first set foot on their new home. Tulsa wa\
-s part of what was known as "Indian Territory", which was created for the 5 civilized tribes, the Choctaw, Cherokee, Muscogee Creek, Chickisaw, and Seminoles people. The L\
+<h2> <span style="color:red"> The Early Years </span> </h2>
+    <p> Tulsa was first settled between 1828 and 1836. At that time the Lochapoka Band of the Creek Native American Indian tribe first set foot on their new home. Tulsa
+s part of what was known as "Indian Territory", which was created for the 5 civilized tribes, the Choctaw, Cherokee, Muscogee Creek, Chickisaw, and Seminoles people. The 
 ochapoka clan were the first to claim the area that is now known as Tulsa. Their name stands for "Turtle Clan" and they are descendents from the Muscogee Creek people. For\
 ced from their native homes in Alabama, the Lochapoka tribe settled on what is now present-day Cheyenne Avenue and 18th Street under a large Burr Oak tree now called <a hr\
 ef="https://en.wikipedia.org/wiki/Creek_Council_Oak_Tree ">Council Oak Tree </a>, there they rekindled their ceremonial fire and named their new settlement "Tulasi" meanin\
